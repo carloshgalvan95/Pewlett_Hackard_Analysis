@@ -20,6 +20,7 @@ We divided the information to analyze into:
 - Employees who are elegible to participate in the mentorship program
 
 The results per title for both were the following:
+
 ![retiring](https://github.com/carloshgalvan95/Pewlett_Hackard_Analysis/blob/main/resources/retirement_titles.png)
 ![mentorship](https://github.com/carloshgalvan95/Pewlett_Hackard_Analysis/blob/main/resources/mentorship_titles.png)
 
